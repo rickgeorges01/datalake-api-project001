@@ -9,7 +9,7 @@ Il a été réalisé avec Django REST Framework, JWT pour la sécurité, SQLite 
 
 ### 1. Cloner le projet
 ```bash
-git clone <url_du_repo>
+git clone https://github.com/rickgeorges01/datalake-api-project001.git
 cd data_lake_api
 ```
 
