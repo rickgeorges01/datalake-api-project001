@@ -130,4 +130,4 @@ projet_datalake_api/
 - Peut être porté facilement vers PostgreSQL + Docker pour industrialisation
 - Toutes les fonctions sont testables via Swagger ou Streamlit
 
-Bonne exploration
+## Bonne exploration !
